@@ -2,10 +2,23 @@
     <h1>Image Classification 💻</h1>
 </div>
 
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification?style=for-the-badge&color=blue)
+![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification?style=for-the-badge&color=brightgreen)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification?style=for-the-badge&color=brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification?style=for-the-badge&color=aqua)
+![GitHub last commit](https://img.shields.io/github/last-commit/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification?style=for-the-badge&color=blue)
+![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
+![Github Repo Size](https://img.shields.io/github/repo-size/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification?style=for-the-badge&color=aqua)
+
+</div>
+
 <p align="center">
     <img src="Image-Classification.png">
 p>
-
 
 **Abstract:**</br>
 Image classification refers to the task of extracting information classes from a multiband raster image. The resulting raster from image classification can be used to create thematic maps. Image Classification is a fundamental task that attempts to comprehend an entire image as a whole. The goal is to classify the image by assigning it to a specific label. Typically, Image Classification refers to images in which only one object appears and is analyzed. In contrast, object detection involves both classification and localization tasks, and is used to analyze more realistic cases in which multiple objects may exist in an image. Depending on the interaction between the analyst and the computer during classification, there are two types of classification: supervised and unsupervised. 
@@ -44,6 +57,14 @@ https://youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&utm_source=
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/pytorch/pytorch/39fa0b5d0a3b966a50dcd90b26e6c36942705d6d/docs/source/_static/img/pytorch-logo-dark.svg"></code>
+
+<h2>✨Top Contributors</h2>   
+
+Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
+
+<a href="https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification" />
+</a>
 
 ### © 2022 Arushi Garg- GDSC
 
