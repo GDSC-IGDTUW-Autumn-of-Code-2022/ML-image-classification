@@ -19,6 +19,23 @@ Supervised classification uses the spectral signatures obtained from training sa
 - Unsupervised classification
 Unsupervised classification finds spectral classes (or clusters) in a multiband image without the analyst’s intervention. The Image Classification toolbar aids in unsupervised classification by providing access to the tools to create the clusters, capability to analyze the quality of the clusters, and access to classification tools.
 
+## Structure of the Projects 📝
+This repository consists of various machine learning projects, and all of the projects must follow a certain template. I wish the contributors will take care of this while contributing in this repository. <br><br>
+**Dataset** - This folder stores the dataset used in this project. If the Dataset is not being able to uploaded in this folder due to the large size, then put a README.md file inside the Dataset folder and put the link of the collected dataset in it. That'll work!<br><br>
+**Images** - This folder is used to store the images generated during the data analysis, data visualization, data segmentation of the project.<br><br>
+**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. 
+
+## Resources 📝
+https://youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&utm_source=EKLEiJECCKjOmKnC5IiRIQ
+https://youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&utm_source=EKLEiJECCKjOmKnC5IiRIQ
+
+## 🧮 Workflow
+- Fork the repository
+- Clone your forked repository using terminal or gitbash.
+- Make changes to the cloned repository
+- Add, Commit and Push
+- Then in Github, in your cloned repository find the option to make a pull request
+
 ## Built with
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
