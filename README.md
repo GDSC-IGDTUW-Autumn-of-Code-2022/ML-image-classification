@@ -68,7 +68,7 @@ https://youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&utm_source=
 
 
 You can take up any of the existing issues or create a new to to contribute any of your own projects!<br/> 
-Contribution period ends: 22 December 2022
+Contribution period ends: 26 January 2024
 
 
 ## How to get started?
@@ -121,6 +121,6 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
   <img src="https://contrib.rocks/image?repo=GDSC-IGDTUW-Autumn-of-Code-2022/ML-image-classification" />
 </a>
 
-### © 2022 Arushi Garg- GDSC
+© 2023 Tejaswi Tyagi - GDSC
 
 ## Thank You! Show some :heart: if you like it!
